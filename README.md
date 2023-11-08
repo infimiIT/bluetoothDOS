@@ -34,3 +34,7 @@ Configure the script using command-line arguments:
 
 ## License
 Provided "as-is" without warranty. Use responsibly and with proper authorization.
+
+## Credits
+Project created by Przemysław Myk
+GitHub: infimiIT
